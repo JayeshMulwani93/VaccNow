@@ -1,0 +1,7 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: validate
+              
+payment-methods: CASH,CREDIT,FAWRY
+time-slots: 0,15,30,45
